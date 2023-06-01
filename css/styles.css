@@ -6,6 +6,13 @@ body {
   padding-right: 5px;
 }
 
+main {
+  background-color: #E5E5FF;
+  padding-top: 45px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 img {
   display: block;
   max-width: 100%;
@@ -43,4 +50,48 @@ header {
 
 .title-tage {
   color: #67FF00;
+}
+
+.big-sam {
+  color: #4603FF;
+}
+
+.skate-title {
+  color: #67FF00;
+}
+
+.music-title {
+  color: #FF06E1;
+}
+
+.music-part {
+  background-image: url(../img/SVG/mure-noir-brique.jpg);
+}
+
+.music-skeleton {
+  width: 30%;
+  padding-left: 220px;
+  padding-top: 15px;
+}
+
+.bones {
+  width: 40%;
+  padding-left: 220px;
+  padding-bottom: 40px;
+}
+
+.burger-paint {
+  width: 60%;
+}
+
+.food-tilte {
+  color: #4603FF;
+}
+
+.contact {
+  color: #67FF00;
+}
+
+footer {
+  background-image: url(../img/SVG/mure-noir-brique.jpg);
 }
