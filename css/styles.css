@@ -8,3 +8,21 @@ img {
   display: block;
   max-width: 100%;
 }
+
+h1 {
+  color: #FF06E1;
+  border-top: 50px;
+}
+
+header {
+  background-image: url(../img/SVG/mure-noir-brique.jpg);
+  padding-bottom: 200px;
+
+}
+
+.green-attach {
+  float: right;  
+  width: 50%;
+  
+  
+}
