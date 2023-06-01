@@ -37,6 +37,7 @@ h1 {
 
 header {
   background-image: url(../img/SVG/mure-noir-brique.jpg);
+  
 }
 
 .green-attach {
@@ -51,7 +52,6 @@ header {
   justify-content: center;
   color: #FF06E1;
   padding-top: 75px;
-  z-index: 2;
 }
 
 .black-skeleton {
