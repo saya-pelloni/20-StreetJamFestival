@@ -2,6 +2,8 @@ body {
   max-width: 320px;
   margin: auto;
   background: #ddd;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 img {
@@ -11,18 +13,34 @@ img {
 
 h1 {
   color: #FF06E1;
-  border-top: 50px;
+  display: flex;
+  width: 50%;
 }
 
 header {
   background-image: url(../img/SVG/mure-noir-brique.jpg);
-  padding-bottom: 200px;
-
 }
 
 .green-attach {
-  float: right;  
-  width: 50%;
-  
-  
+  display: flex;
+  padding: 0;
+  margin: 0;
+  width: 60%;
+}
+
+.first-tilte-festival {
+  color: #FF06E1;
+}
+
+.text-right {
+  padding-left: 105px;
+}
+
+.text-left {
+  padding-right: 90px;
+  padding-bottom: 15px;
+}
+
+.title-tage {
+  color: #67FF00;
 }
