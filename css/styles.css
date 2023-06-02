@@ -1,7 +1,7 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  background-image: url(../img/SVG/mure-noir-brique.jpg);
   padding-left: 5px;
   padding-right: 5px;
 }
@@ -38,6 +38,8 @@ h2{
 }
 
 .navigation {
+  display: flex;
+  flex-direction: row;
   color: #0000A9;
   font-family: 'Rubik', sans-serif;
 }
@@ -50,6 +52,8 @@ h2{
 
 header {
   background-image: url(../img/SVG/mure-noir-brique.jpg);
+  border-style: double;
+  color: #E5E5FF;
 }
 
 .green-attach {
@@ -63,6 +67,10 @@ header {
   display: flex;
   color: #FF06E1;
   padding-top: 75px;
+}
+
+.warning {
+  font-size: small;
 }
 
 .black-skeleton {
@@ -110,6 +118,10 @@ header {
   rgb(0, 0, 0), 0 0 1px rgb(0, 0, 0), 0 0 1px rgb(0, 0, 0);
 }
 
+.skate-time {
+  padding-bottom: 12px;
+}
+
 .music-title {
   color: #FF06E1;
 }
@@ -125,6 +137,13 @@ header {
   padding-left: 205px;
   padding-top: 15px;
   padding-bottom: 75px;
+}
+
+ul li {
+  font-family: 'Rubik', sans-serif;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 12px;
 }
 
 .skate-bones {
@@ -159,4 +178,6 @@ footer {
   background-image: url(../img/SVG/mure-noir-brique.jpg);
   color: white;
   padding: 25px;
+  border-style: double;
+  color: #E5E5FF;
 }
