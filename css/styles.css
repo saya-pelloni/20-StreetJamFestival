@@ -25,6 +25,14 @@ h1 {
   font-size: 60px;
 }
 
+h3 {
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: 'Rubik', sans-serif;
+  padding-top: 35px;
+  font-style: italic;
+}
+
 p {
   font-family: 'Rubik', sans-serif;
   padding-left: 15px;
@@ -170,3 +178,4 @@ footer {
   border-style: double;
   color: #E5E5FF;
 }
+
