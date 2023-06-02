@@ -25,8 +25,18 @@ h1 {
   padding-left: 15px;
 }
 
+p {
+  font-family: 'Rubik', sans-serif;
+}
+
+h2{
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: xx-large;
+}
+
 .navigation {
   color: #0000A9;
+  font-family: 'Rubik', sans-serif;
 }
 
 .navigation-block{
@@ -37,7 +47,6 @@ h1 {
 
 header {
   background-image: url(../img/SVG/mure-noir-brique.jpg);
-  
 }
 
 .green-attach {
@@ -49,7 +58,6 @@ header {
 
 .first-tilte-festival {
   display: flex;
-  justify-content: center;
   color: #FF06E1;
   padding-top: 75px;
 }
@@ -61,11 +69,13 @@ header {
 
 .text-right {
   padding-left: 105px;
+  font-family: 'Rubik', sans-serif;
 }
 
 .text-left {
   padding-right: 90px;
   padding-bottom: 15px;
+  font-family: 'Rubik', sans-serif;
 }
 
 .title-tage {
