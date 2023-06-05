@@ -8,6 +8,7 @@ body {
 
 main {
   background-color: #dcd0f8;
+  padding-bottom: 45px;
 }
 
 img {
@@ -62,7 +63,6 @@ h2{
   flex-wrap: wrap;
   transform: rotate(5deg);
   position: absolute;
-
 }
 
 header {
@@ -101,8 +101,8 @@ header {
 }
 
 .text-left {
-  padding-right: 90px;
-  padding-bottom: 15px;
+  padding-right: 67px;
+  padding-bottom: 20px;
   font-family: 'Rubik', sans-serif;
 }
 
@@ -141,6 +141,8 @@ hr {
   background-image: url(../img/SVG/mure-noir-brique.jpg);
   color: white;
   padding: 0px;
+  border-style: double;
+  color: #E5E5FF;
 }
 
 .music-skeleton {
@@ -223,3 +225,8 @@ footer {
 .pink-line {
   padding-top: 10px;
 } 
+
+.last-pink-line {
+  border-width: 5px;
+  color: #FF06E1;
+}
