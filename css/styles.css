@@ -18,10 +18,14 @@ img {
 h1 {
   color: #FF06E1;
   display: flex;
-  padding-left: 15px;
+  padding-left: 8px;
   padding-right: 15px;
   font-family: 'Barlow Condensed', sans-serif;
   font-size: 60px;
+  z-index: auto;
+  position: absolute;
+  text-shadow: 3px 3px rgb(104, 1, 53);
+  padding-top: 0px;
 }
 
 h3 {
@@ -49,12 +53,16 @@ h2{
   flex-direction: row;
   color: #0000A9;
   font-family: 'Rubik', sans-serif;
+  font-size: small;
 }
 
 .navigation-block{
   background-color: #67FF00;
   display: flex;
   flex-wrap: wrap;
+  transform: rotate(5deg);
+  position: absolute;
+
 }
 
 header {
@@ -68,6 +76,7 @@ header {
   width: 60%;
   margin-left: auto;
   padding-left: 15px;
+  padding-right: 10px;
 }
 
 .first-tilte-festival {
@@ -191,7 +200,7 @@ footer {
   z-index: auto;
   width: 35%;
   position: absolute;
-  padding-top: 192px;
+  padding-top: 222px;
   padding-left: 12px;
 }
 
