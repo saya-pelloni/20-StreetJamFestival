@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 407.92 17.17">
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 18">
   <defs>
     <style>
       .cls-1 {
-        fill: #ff06e1;
+        fill: #d90eda;
         stroke: #000;
         stroke-miterlimit: 10;
       }
     </style>
   </defs>
   <g id="Maquette">
-    <polygon class="cls-1" points=".51 .5 .72 12.02 407.41 16.66 407.16 2.93 .51 .5"/>
+    <rect class="cls-1" x=".5" y=".5" width="379" height="17"/>
   </g>
 </svg>

@@ -202,7 +202,7 @@ footer {
 
 .big-j {
   z-index: auto;
-  width: 45%;
+  width: 30%;
   position: absolute;
   padding-top: 248px;
   padding-left: 12px;
@@ -229,4 +229,18 @@ footer {
 .last-pink-line {
   border-width: 5px;
   color: #FF06E1;
+}
+
+.pink-line {
+  padding-top: 10px;
+} 
+
+.last-pink-line {
+  border-width: 5px;
+  color: #FF06E1;
+}
+
+.last-pink-line {
+  transform: rotate(4deg);
+  padding-top: 25px;
 }
