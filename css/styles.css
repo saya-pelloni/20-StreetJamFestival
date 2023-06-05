@@ -187,3 +187,27 @@ footer {
   color: #E5E5FF;
 }
 
+.big-j {
+  z-index: auto;
+  width: 35%;
+  position: absolute;
+  padding-top: 192px;
+  padding-left: 12px;
+}
+
+.text-key-j {
+  padding-top: 110px;
+  font-family: 'Rubik', sans-serif;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.photo-sam {
+  width: 70%;
+  padding-left: 15px;
+  z-index: auto;
+}
+
+.pink-line {
+  padding-top: 20px;
+} 
