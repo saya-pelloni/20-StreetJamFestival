@@ -28,6 +28,13 @@ h1 {
   margin-top: 20px;
 }
 
+.date-title {
+  color: #FF06E1;
+  padding: 0px;
+  margin: 0px;
+  font-size: 15px;
+}
+
 h3 {
   padding-left: 15px;
   padding-right: 15px;
@@ -46,6 +53,7 @@ h2{
   font-family: 'Barlow Condensed', sans-serif;
   font-size: xx-large;
   padding-left: 15px;
+  padding-top: 85px;
 }
 
 .navigation {
@@ -72,12 +80,11 @@ header {
   background-image: url(../img/SVG/mure-noir-brique.jpg);
   border-style: double;
   color: #E5E5FF;
-  padding-top: 2px; 
 }
 
 .green-attach {
   display: block;
-  width: 50%;
+  width: 49%;
   margin-left: auto;
 }
 
@@ -176,16 +183,6 @@ ul li {
   padding-left: 170px;
 }
 
-.bones {
-  width: 40%;
-  padding-left: 170px;
-  padding-bottom: 40px;
-}
-
-.warning {
-  padding-bottom: 95px;
-}
-
 .burger-paint {
   width: 50%;
   padding-left: 15px;
@@ -198,6 +195,7 @@ ul li {
 
 .contact {
   color: #67FF00;
+  padding-top: 0px;
 }
 
 footer {
