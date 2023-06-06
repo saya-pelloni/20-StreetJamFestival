@@ -7,7 +7,7 @@ body {
 }
 
 main {
-  background-color: #ccb6ff;
+  background-color: #d7c9f7;
   padding-bottom: 45px;
 }
 
@@ -50,21 +50,21 @@ h2{
 
 .navigation {
   display: flex;
-  flex-direction: row;
   color: #0000A9;
   font-family: 'Rubik', sans-serif;
-  font-size: small;
+  padding-left: 5px;
+  padding-right: 5px;
 } 
 
 .navigation-block{
-  display: flex;
   background-color: #67FF00;
-  position: absolute;
-  margin-top: -100px;
-  border-style: groove;
-  border-color: black;
-  position: fixed;
+  border-style: double;
+  color: #E5E5FF;
+}
 
+.block-position-nav {
+  position: sticky;
+  top: 0;
 }
 
 header {
