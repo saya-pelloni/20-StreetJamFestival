@@ -28,13 +28,6 @@ h1 {
   margin-top: 20px;
 }
 
-.date-title {
-  color: #FF06E1;
-  padding: 0px;
-  margin: 0px;
-  font-size: 15px;
-}
-
 h3 {
   padding-left: 15px;
   padding-right: 15px;
@@ -54,18 +47,14 @@ h2{
   font-size: xx-large;
   padding-left: 15px;
   padding-top: 85px;
-}
+} 
 
-.navigation {
+.navigation-block {
   display: flex;
-  color: #0000A9;
   font-family: 'Rubik', sans-serif;
   font-size: 12px;
   justify-content: center;
   text-decoration: none;
-} 
-
-.navigation-block {
   background-color: #67FF00;
   border-style: groove;
   border-color: black;
